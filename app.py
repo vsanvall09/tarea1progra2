@@ -6,7 +6,7 @@ app.route("/")
 
 
 def home():
-    return "hola mundo"
+    return "holndo"
 
 
 if __name__ == "__main__":
